@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Model/data artifacts (keep large files out of Git unless needed)
+dataset/raw/
+*.h5
+*.keras
+*.tflite
+*.onnx
+
+# Android/Gradle
+.gradle/
+build/
+local.properties
+.idea/

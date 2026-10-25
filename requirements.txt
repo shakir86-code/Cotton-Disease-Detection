@@ -1,0 +1,10 @@
+# Initial Python dependencies; update versions after testing in your environment.
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+Pillow
+fastapi
+uvicorn[standard]
